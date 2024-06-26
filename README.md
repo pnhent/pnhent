@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Noh-Hyeon Park! 👋
+
+![image](https://github.com/pnhent/pnhent/assets/127266205/2703c72a-5afa-43a8-a5b9-eaddb86e5740)
 
 <!--
 **pnhent/pnhent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
